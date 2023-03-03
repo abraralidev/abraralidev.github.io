@@ -12,6 +12,7 @@
     "axe/name-role-value": "off",
     "disown-opener": "off",
     "axe/structure": "off",
-    "axe/language": "off"
+    "axe/language": "off",
+    "no-inline-styles": "off"
   }
 }
